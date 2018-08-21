@@ -1,0 +1,65 @@
+h1{
+	color:red;
+	margin-left:500px;
+}
+.img{
+	margin-top: -160px;
+	margin-left: 200px;
+   margin-bottom:30px;
+}
+#img1{
+	margin-left: 200px;
+}
+#img2{
+	margin-left: 200px;
+}
+#img3{
+	margin-left: 200px;
+}
+#img4{
+	margin-top: 50px;
+	margin-left: 170px;
+}
+#img5{
+	margin-top: 50px;
+	margin-left: 170px;
+}
+#img6{
+	margin-top: 50px;
+	margin-left: 170px;
+}
+.ssilka1{
+	margin-left: 5px;
+	color:black;
+}
+.ssilka2{
+	margin-left:-200px;
+	font-size:20px;
+	background-color: #FFFFFF;
+}
+table{
+  border-collapse: collapse;
+}
+.td2 {
+  border: 3px solid #424242;
+  background-color: gray;
+}
+}
+#s21{
+	padding-right:57px;
+}
+#s22{
+	padding-right:10px;
+}
+#s23{
+	padding-right:105px;
+}
+#s24{
+	padding-right:111px;
+}
+#s25{
+    padding-right:95px;
+}
+#s26{
+	padding-right:88px;
+}
